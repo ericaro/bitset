@@ -1,3 +1,9 @@
+Forked to:
+* meet gopack requirements
+* fix a test issue
+
+
+
 Package bitset implements bitsets, a mapping
 between non-negative integers and boolean values. It should be more
 efficient than map[uint] bool.
